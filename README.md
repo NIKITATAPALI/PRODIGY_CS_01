@@ -29,4 +29,4 @@ Before running this script, ensure that:
 ### **Step 1: Download the Script**
 Clone this repository using Git:
 ```bash
-git clone https://github.com/your-username/caesar-cipher-bash.git
+git clone https://github.com/NIKITATAPALI/PRODIGY_CS_01.git
