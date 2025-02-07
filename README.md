@@ -37,7 +37,7 @@ Before running this script, ensure that:
 ### Step 1: Download the Script
 Clone this repository using Git:
 ```bash
-git clone https://github.com/your-username/caesar-cipher.git
+git clone https://github.com/NIKITATAPALI/PRODIGY_CS_01.git
 ```
 Or manually create the script file:
 ```bash
@@ -119,7 +119,7 @@ Want to contribute? Fork the repo and submit a pull request.
 
 ## 📢 Find Me On:
 <p align="left">
-  <a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/NIKITATAPALI/" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
