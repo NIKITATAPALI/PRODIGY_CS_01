@@ -1,0 +1,2 @@
+Encryption | Message: niki143muke | Shift: 1 | Result: \x6f\x6a\x6c\x6a143\x6e\x76\x6c\x66
+Decryption | Message: x6fx6ax6cx6a143x6ex76x6cx66 | Shift: 1 | Result: \x776\x65\x776\x60\x776\x62\x776\x60143\x776\x64\x7776\x776\x62\x7766
